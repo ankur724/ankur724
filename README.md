@@ -1,8 +1,8 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1)
 <h1 align="center">Hi 👋, I'm Ankur Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Aspiring MERN STACK developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-- 🔭 I’m currently working on **E-commerce react app**
+- 🔭 I’m currently working on **Music Streaming react app**
 
 - 🌱 I’m currently learning **React Js**
 
